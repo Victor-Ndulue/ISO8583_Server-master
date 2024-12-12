@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISO_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a0823e6b15ae6ed4226c80bb29726c8e65211c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISO_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISO_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
